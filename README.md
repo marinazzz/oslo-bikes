@@ -2,10 +2,6 @@
 
 Application that shows a list of the bike stations, and how many available docks and free bikes are currently on them. List of stations provided by public data <a href="https://oslobysykkel.no/apne-data/sanntid" target="_blank">Oslo Sanntidsdata API</a>
 
-## Live Demo
-
-[GitHub Pages](https://github.com/marinazzz/olso-bikes)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

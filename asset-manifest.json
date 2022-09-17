@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marinazzz/olso-bikes/static/css/main.4840699c.css",
+    "main.js": "/marinazzz/olso-bikes/static/js/main.3ceff3d1.js",
+    "index.html": "/marinazzz/olso-bikes/index.html",
+    "main.4840699c.css.map": "/marinazzz/olso-bikes/static/css/main.4840699c.css.map",
+    "main.3ceff3d1.js.map": "/marinazzz/olso-bikes/static/js/main.3ceff3d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4840699c.css",
+    "static/js/main.3ceff3d1.js"
+  ]
+}
